@@ -11,6 +11,30 @@
     border-radius: 4px;
 }
 
+#div-tatiana{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 100px;
+}
+
+#div-verde{
+    position: absolute;
+}
+
+#faixa-verde{
+    position: relative;
+    top: 90px;
+    right: 80px;
+}
+
+#tatiana{
+    align-items: center;
+    position: absolute;
+    border-radius: 100px;
+    z-index: 1;   
+}
+
 #touchy-title{
     display: flex;
     margin-left: 60px;

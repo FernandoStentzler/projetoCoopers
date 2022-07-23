@@ -1,11 +1,17 @@
 import React from 'react'
 import '../assets/css/GetInTouchy.css'
 import touchyVector from '../assets/img/touchVector.png'
+import tatiana from '../assets/img/tatiana.png'
+import grafismo from '../assets/img/grafismo.png'
 
 function GetInTouchy() {
   return (
     <div className='GetInTouchy'>
         <section id='touchy-background'>
+            <div id='div-tatiana'>
+                <div id='div-verde'><img id='faixa-verde' src={grafismo} alt='Faixa Verde'/></div>
+                <img id='tatiana' src={tatiana} alt='imagen Tatiana' />
+            </div>            
             <div id='touchy-title'>
                 <div id='touchy-icon'>
                     <img src={touchyVector} />

@@ -3,6 +3,7 @@ import Footer from './components/Footer';
 import GetInTouchy from './components/GetInTouchy';
 import Header from './components/Header'
 import TodoList from './components/TodoList';
+import GoodThings from './components/GoodThings';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div className="App">
       < Header />
       < TodoList />
+      < GoodThings />
       < GetInTouchy />
       < Footer />
     </div>
