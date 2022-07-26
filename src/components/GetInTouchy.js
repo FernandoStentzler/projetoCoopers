@@ -46,7 +46,7 @@ function GetInTouchy() {
                         </input>
                     </div>
                 </div>
-                <label id='touchy-label-email'>Message*</label>
+                <label id='touchy-label-message'>Message*</label>
                 <textarea
                     placeholder='Type what you want to say to us' 
                     id="touch-message" name="message"

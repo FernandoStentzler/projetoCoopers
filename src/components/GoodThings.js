@@ -19,14 +19,14 @@ function GoodThings() {
                     <p id='read-more'>read more</p>
                 </div>
                 <div id='good-things-imgs-info2'>
-                    <img id='bitmap' src={bitmap2} alt='escritorio' />
+                    <img id='bitmap2' src={bitmap2} alt='escritorio' />
                     <img id='icone-coopers2' src={iconeCoopers} alt='icone Coopers' />
                     <button id='function'> function </button>
                     <p id='text-imgs'> Mark one activity as done makes your brain understands the power of doing.</p>
-                    <p id='read-more'>read more</p>
+                    <p id='read-more2'>read more</p>
                 </div>
-                <div id='good-things-imgs-info2'>
-                    <img id='bitmap' src={bitmap3} alt='escritorio' />
+                <div id='good-things-imgs-info3'>
+                    <img id='bitmap3' src={bitmap3} alt='escritorio' />
                     <img id='icone-coopers3' src={iconeCoopers} alt='icone Coopers' />
                     <button id='function'> function </button>
                     <p id='text-imgs'> Careful with missunderstanding the difference between a list of things and a list of desires.</p>
