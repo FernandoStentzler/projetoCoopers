@@ -15,6 +15,9 @@ Descritivo Comentado Sobre o Projeto
 primeramente realizei toda a estilização do projeto
 criando os componentes do header ao footer
 
+Adicionei a responsividade para telas de 360px De largura / 800-1024px de largura
+e para telas acima de 1024px de largura
+
 na pasta components voce pode encontrar todos os components 
 do projeto que esta utilizando para renderizar o App.js
 dentro da pasta assets voce pode encontrar as pastas de imagens e estilização css da pagina
